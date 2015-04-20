@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 
-<widget id="com.hancoma.hancoma" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"   android-versionCode="12">
+<widget id="com.hancoma.hancoma" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"   android-versionCode="12">
     <name>메거진한꼬마</name>
     <description>
        메거진 한꼬마
@@ -8,9 +8,9 @@
     <author email="hancoma@gmail.com" href="http://hancoma.com">
         메거진 한꼬마
     </author>
-    <content src="http://magazinech7.blogspot.kr" />
+    <content src="http://hancoma.tistory.com" />
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
